@@ -21,7 +21,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1106" height="634" alt="image" src="https://github.com/user-attachments/assets/2364d9ca-bfde-4929-94d3-82dd2b0f35a7" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b3173f11-9578-4cb3-b59e-f09b8eb38174" />
+
 </p>
 <br>
 <br>
@@ -34,7 +35,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1100" height="636" alt="image" src="https://github.com/user-attachments/assets/4310ed86-2b64-43bc-a6ec-b0ff07eed18d" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/6996b1b8-1d8d-4c43-8aae-9345dfa3805a" />
+
 </p>
 <br>
 <br>
@@ -48,7 +50,7 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1096" height="627" alt="image" src="https://github.com/user-attachments/assets/567649d7-7185-4d09-89bc-d93d249e0aa9" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/234e5d69-f233-4609-b908-e344b6cdcaf0" />
 </p>
 <br>
 <br>
@@ -58,7 +60,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1104" height="643" alt="image" src="https://github.com/user-attachments/assets/d7a425c1-97b7-492d-9b1b-67cbe13ad331" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/9917256e-60d4-4f2b-9d81-cd1f796138b5" />
+
 </p>
 <br>
 <br>
@@ -71,7 +74,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1104" height="645" alt="image" src="https://github.com/user-attachments/assets/8abfafbf-5b7b-4ca7-9be4-0889acb81851" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/b34ce1d0-616b-4560-8014-5a2a9b7080e2" />
+
 </p>
 <br>
 <br>
@@ -88,7 +92,8 @@ Windows: Download the executable from the official CGSecurity website.
 -<br>
 <br>
 <p align="center"> 
-<img width="1107" height="642" alt="image" src="https://github.com/user-attachments/assets/1ee7e8df-acbd-4ce6-8d7c-6b0c81ec809b" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/64e4a552-16cc-4ff1-897d-cf144ebbb8bf" />
+
 </p>
 <br>
 <br>
@@ -109,7 +114,7 @@ Windows: Download the executable from the official CGSecurity website.
     <br>
 <br>
 <p align="center">
-<img width="1095" height="638" alt="image" src="https://github.com/user-attachments/assets/93dea845-3819-4665-ba68-c4830546ffe5" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4b4ef169-5011-4168-9e45-2d6c20cb3bff" />
 </p>
 <br>
 <br>
@@ -122,7 +127,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-<img width="1112" height="640" alt="image" src="https://github.com/user-attachments/assets/78263f06-1ad8-421c-b683-c7d67add03b4" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/06d120a7-2bf2-4d1c-a924-7d25913d3a55" />
+
 </p>
 <br>
 <br>
@@ -132,7 +138,8 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-  <img width="1108" height="637" alt="image" src="https://github.com/user-attachments/assets/69095f90-5474-4bce-80e5-cc419d84f0ae" />
+  <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/146bf17b-2cba-4b63-b9b3-7cb446b714ad" />
+
 </p>
 <br>
 <br>
@@ -143,8 +150,6 @@ Windows: Download the executable from the official CGSecurity website.
 ### 9. Recover Files
 - If you just need to recover a few files without fixing the partition table, you can do so from the file list (after pressing p).
 
-- Navigate to the folder containing your desired files.
-
 - Use the colon : key to select the files you want to recover.
 
 - Press the uppercase C key to copy the selected file(s).
@@ -152,6 +157,5 @@ Windows: Download the executable from the official CGSecurity website.
 - Navigate to a safe destination on a different storage device and press uppercase C again to paste.
 
 ### 10. Exit and Restart
-- Once your task is complete, select [Quit] to exit the program.
-
 - If you wrote a new partition table to the drive, it is recommended to restart your computer to allow the operating system to recognize the changes.
+- Once your task is complete, select [Quit] to exit the program.
