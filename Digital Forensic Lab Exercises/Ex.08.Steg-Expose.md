@@ -37,7 +37,8 @@ Steg-Expose is an open-source steganalysis tool designed to detect hidden data w
 
 * Navigate to the folder where the `StegExpose.jar` file is located using your Command Prompt (Windows) or Terminal (Linux/macOS).
 
-   
+ ![1](https://github.com/user-attachments/assets/97dee59d-95d7-433e-94cd-e12b69982f11)
+  
 
 
 
