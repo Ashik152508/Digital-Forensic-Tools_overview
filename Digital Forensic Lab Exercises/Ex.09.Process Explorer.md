@@ -55,6 +55,9 @@ It helps investigators and administrators analyze active processes, detect suspi
    - Check if it communicates with **unknown external IP addresses**.
 4. Examine **Handles** and **DLLs** tabs for suspicious loaded files or libraries.
 
+<img width="1920" height="1032" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/593adf9e-049d-4d7f-bcfd-0f6708f90dee" />
+
+
 
 
 ### **Step 5: Verify Process Legitimacy**
@@ -63,8 +66,9 @@ It helps investigators and administrators analyze active processes, detect suspi
 2. Visit 🔗 [https://www.virustotal.com](https://www.virustotal.com)
    - Upload the process file or search its name to verify if it’s reported as malware.
 3. Cross-check with **ProcessLibrary.com** or official vendor websites for authenticity.
-![images/exp9-disk-step2.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/326db74a3770e2ba22207f5a48b737f17307f683/images/9.6.jpeg)
----
+
+<img width="1920" height="913" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/f2f45a31-2efd-4f77-b6eb-eb9415949597" />
+
 
 ### **Step 6: Take Appropriate Action**
 1. **If the process is confirmed malicious:**
@@ -74,7 +78,9 @@ It helps investigators and administrators analyze active processes, detect suspi
    - Right-click → **Suspend Process** to stop it temporarily for investigation.
 3. **After removal:**
    - Run a **Full System Scan** using Windows Defender or Malwarebytes to ensure no remnants remain.
-<img width="1577" height="1019" alt="Screenshot 2025-10-28 010142" src="https://github.com/user-attachments/assets/1ca13fe6-c428-4265-8650-8262ffff78f8" />
+
+<img width="1920" height="1017" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/637b4baa-49e1-401a-bdaf-b41b06190528" />
+
 
 ---
 
@@ -86,11 +92,12 @@ You find `faangpath_simple_template.pdf` consuming 70% CPU.
 - **Network Activity:** Shows connections to unknown IPs in the TCP/IP tab  
 - **Online Check:** VirusTotal confirms it as a **known trojan**  
 - **Action Taken:** Suspended → Killed → Deleted file → Performed full antivirus scan  
-![images/exp9-disk-step2.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/326db74a3770e2ba22207f5a48b737f17307f683/images/9.9.jpeg)
----
+
+<img width="1920" height="954" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/350fe795-3325-4daa-a43b-98d5bb2fce7d" />
+
 
 
 ## **Result**
-Using Process Explorer, suspicious processes were successfully identified by examining their **CPU usage**, **path**, **digital signature**, and **network activity**. Confirmed malicious processes were terminated and removed to maintain system integrity.
+Using Process Explorer, suspicious processes were successfully identified by examining their **CPU usage**, **path**, **digital signature**, and **network activity**. 
 
 ---
