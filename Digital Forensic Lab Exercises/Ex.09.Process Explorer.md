@@ -29,7 +29,8 @@ It helps investigators and administrators analyze active processes, detect suspi
 ### **Step 2: Understand the Interface**
 1. The main window displays all running processes in a **hierarchical tree view**.
 2. Each process shows details such as **PID**, **CPU usage**, **memory usage**, and **company name**.
-<img width="1450" height="1015" alt="Screenshot 2025-10-28 005444" src="https://github.com/user-attachments/assets/928d95de-a609-4cb5-bca7-d77d7d3493ad" />
+![2](https://github.com/user-attachments/assets/26dd69d3-12d0-432f-b78d-0b55a94b80df)
+
 
 
 
@@ -42,7 +43,8 @@ It helps investigators and administrators analyze active processes, detect suspi
 5. Check for **Digital Signature**:
    - Valid signature = trusted developer  
    - No signature or invalid = possibly malicious
-<img width="1630" height="1020" alt="Screenshot 2025-10-28 005833" src="https://github.com/user-attachments/assets/56ac307d-6ffa-4d1d-a8cd-7d3aae7a1846" />
+![WhatsApp Image 2025-10-28 at 15 24 14_7b7b2525](https://github.com/user-attachments/assets/18b1ef62-8a6f-408c-93f9-1f2c343a1a2a)
+
 
 ---
 
@@ -52,7 +54,7 @@ It helps investigators and administrators analyze active processes, detect suspi
 3. Right-click the process → **Properties** → go to the **TCP/IP tab**.
    - Check if it communicates with **unknown external IP addresses**.
 4. Examine **Handles** and **DLLs** tabs for suspicious loaded files or libraries.
-<img width="1586" height="1012" alt="Screenshot 2025-10-28 010428" src="https://github.com/user-attachments/assets/66d95a93-0bdd-4f03-97d9-6f46644a3794" />
+
 
 
 ### **Step 5: Verify Process Legitimacy**
