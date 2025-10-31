@@ -1,4 +1,4 @@
-**# Ex.No.1    FTK Imager: A Forensic Imaging Tool Overview
+# Ex.No.1    FTK Imager: A Forensic Imaging Tool Overview
 
 ## Acquiring Volatile Memory (RAM) Using FTK Imager
 <br>
